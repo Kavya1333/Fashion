@@ -14,3 +14,4 @@ Dark mode has gained a lot of traction recently like dark mode facebook, dark mo
 # Responsive Web Design
 The pages are fully designed with responsive buttons, text, images, etc. which looks pretty cool with almost all windows and devices. Not only the elements present in the website template but also responsive display ads which you were placed on your site. All our templates are responsive for mobile with responsive email templates with a responsive HTML table. So you won’t need to worry about the look of your website on different sizes of screens and build a website for free.
 ![].(https://raw.githubusercontent.com/Kavya1333/Fashion/main/assets/images/b3.jpg)
+![Screenshot (372)]([[https://raw.githubusercontent.com/Kavya1333/Fashion/main/assets/images/b3.jpg])
